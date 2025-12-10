@@ -1,0 +1,14 @@
+/target
+*.iml
+/.idea
+/.classpath
+/.project
+/.settings
+*.log
+.DS_Store
+/.mvn
+out/
+.settings/
+.classpath
+.project
+node_modules/
